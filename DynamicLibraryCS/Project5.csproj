@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>netcoreapp3.1-windows</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+        <RootNamespace>Proj5</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FSharp.Core" Version="5.0.2-beta.21102.10" />
+      <PackageReference Include="FSharp.Data" Version="4.1.0" />
+      <PackageReference Include="MySql.Data" Version="8.0.24" />
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\FsharpLib\FsharpLib\FsharpLib.fsproj" />
+    </ItemGroup>
+
+</Project>

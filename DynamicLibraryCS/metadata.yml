@@ -1,0 +1,12 @@
+---
+:id: 76796970
+:submitters:
+- :name: Michael Adami
+  :email: madami5@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-25 22:54:49.583784000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-25 15:54:49.583784000 Z
+:status: processed
+:score: 99.0

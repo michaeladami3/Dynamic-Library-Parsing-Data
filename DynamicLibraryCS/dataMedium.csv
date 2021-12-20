@@ -1,0 +1,629 @@
+news_id,url,publisher,publish_date,author,title,image,body_text,news_guard_score,mbfc_level,political_bias,country,reliability
+58,https://www.nytimes.com/article/what-is-coronavirus.html,The New York Times,1/21/20,"['Knvul Sheikh', 'Roni Caryn Rabin']",The Coronavirus: What Scientists Have Learned So Far,https://static01.nyt.com/images/2020/03/12/science/26VIRUS-EXPLAINER-update1/26VIRUS-EXPLAINER-update1-facebookJumbo.jpg,ABC,100,High,Left,USA,1
+1,https://www.npr.org/2020/01/22/798392172/chinese-health-officials-more-die-from-newly-identified-coronavirus,National Public Radio (NPR),2/22/20,['Emily Feng'],Chinese Health Officials: More Die From Newly Identified Coronavirus,https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400,Chinese Health Officials: More Die From Newly Identified Coronavirus,100,Very high,Center,USA,1
+2,https://www.theverge.com/2020/1/23/21078457/coronavirus-outbreak-china-wuhan-quarantine-who-sars-cdc-symptoms-risk,National Public Radio (NPR),3/23/20,['Nicole Wetsman'],Everything you need to know about the coronavirus,https://cdn.vox-cdn.com/thumbor/a9_Oz7cvSBKyalibjq3yKtypMqc=/0x153:2130x1268/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19581722/VRG_ILLO_1777_AK_vaccine.0.jpg,"Public health experts around the globe are scrambling to understand, track, and contain a new virus that appeared in Wuhan, China, at the beginning of December 2019. 
+The US currently has the worst outbreak of any country in the world.",100,High,Left-center,USA,1
+44,https://www.worldhealth.net/news/novel-coronavirus-cases-confirmed-be-spreading/,The Verge,3/24/20,[],Novel Coronavirus Cases Confirmed To Be Spreading,https://www.worldhealth.net/media/original_images/virus_breath.jpg,"The first two coronavirus cases in Europe have been detected in France, and a second case has been confirmed in America as China expands its efforts to control its outbreak.",30,Low,Center,USA,0
+4,https://www.theverge.com/2020/1/24/21080845/coronavirus-news-wuhan-updates-china-sars-mers-cdc-spread,The Verge,7/24/20,"['Nicole Wetsman', 'Zoe Schiffer', 'Jay Peters', 'Sean OKane', 'Kim Lyons', 'Elizabeth Lopatto', 'Josh Dzieza', 'Nick Statt', 'James Vincent']",Coronavirus disrupts the world: updates on the pandemic,https://cdn.vox-cdn.com/thumbor/t2gt1SmEni4McrANA0ptgYRMJVg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19933222/acastro_200428_1777_coronavirus_0001.0.jpg,"A new coronavirus appeared in Wuhan, China, at the start of December, and it has since infected millions of people all over the world. In March, the World Health Organization declared that the virus was a pandemic.
+
+Coronaviruses are common in many types of animals and can sometimes jump to humans. In this case, the virus probably originally came from a bat. Two other coronaviruses have infected humans, causing outbreaks of SARS and MERS in 2002 and 2012, respectively.
+
+The illness caused by the new coronavirus, COVID-19, appears to cause fever, cough, and difficulty breathing. Other symptoms include loss of taste and smell and gastrointestinal problems. Some people never display symptoms but could still infect others. The illness appears to be severe in around a quarter of COVID-19 patients, and thousands of people have died from the disease in the US and around the world.
+
+Public health officials are still trying to control raging outbreaks in many countries, and scientists are searching for treatments. As that work continues, businesses are shuttered, hospitals are struggling, and millions of people are staying quarantined for their safety and the safety of others.
+
+Follow all of the updates on this evolving story here.",100,High,Left-center,Egypt,1
+5,https://chicago.suntimes.com/2020/1/27/21111134/coronavirus-china-deaths-us-evacuation,Chicago Sun-Times,8/27/20,[],China reports 25 coronavirus deaths; US prepares evacuation,https://cdn.vox-cdn.com/thumbor/XAsdhCTLqw5uzjUQDbx_uF1VRuw=/0x128:1024x664/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19651205/AP20027551280119.jpg,"BEIJING — China on Tuesday reported 25 more deaths from a new viral disease, raising the total to at least 106, as the U.S. government prepared to fly Americans out of the city at the center of the outbreak.
+
+Health authorities in Hubei province, where the coronavirus first was detected in in December, reported 24 deaths and those in Beijing reported the Chinese capital’s first fatality. No national toll was announced, but 81 other deaths had been reported through Monday.
+
+The U.S. Consulate in Wuhan, where authorities cut off most access Jan. 22 in an effort to contain the disease, was preparing to fly its diplomats and some other Americans out of the city. Japan, France and Mongolia and other governments also were preparing evacuations.
+
+China had expanded its already sweeping disease-control efforts by extending the end of this week’s Lunar New Year holiday, the country’s busiest travel season, by three days to Sunday to keep the public at home and reduce the risk infection will spread.
+
+Mongolia closed its vast border with China. Hong Kong and Malaysia announced they were barring entry to visitors from Hubei province. Chinese travel agencies were ordered to cancel group tours nationwide.
+
+U.S. health officials expanded their recommendation for people to avoid non-essential travel to any part of China, rather than just Wuhan and other areas most affected by the outbreak.
+
+On Tuesday, English-proficiency and other tests for students to apply to foreign universities were canceled. Public schools and universities have been ordered to postpone reopening following the Lunar New Year holiday until further notice.
+
+Stock markets around the world were down sharply Monday as investors worried the outbreak could hurt the global economy.
+
+China has confirmed more than 2,700 cases of the new virus, most in Wuhan. More than 40 cases have been confirmed elsewhere in the world. Almost involve Chinese tourists or people who visited Wuhan.
+
+China’s increasingly drastic containment efforts began with the Jan. 22 suspension of plane, train and bus links to Wuhan, a city of 11 million people. That lockdown has expanded to 17 cities with more than 50 million people — the most far-reaching disease-control measures ever imposed.
+
+The epidemic has revived memories of the SARS outbreak that originated in China and killed nearly 800 people. Then, Chinese authorities were criticized for reacting slowly and failing to disclose information. The government has responded more aggressively to the latest outbreak.
+
+Wuhan is building two hospitals, one with 1,500 beds and another with 1,000, for the growing number of patients. The first is scheduled to be finished next week.
+
+The virus is from the coronavirus family that includes the common cold but also more severe illnesses like SARS and Middle East Respiratory Syndrome. The new virus causes cold- and flu-like symptoms, including cough and fever, and in more severe cases, shortness of breath and pneumonia.
+
+The virus is thought to have spread to people from wild animals sold at a market in Wuhan. On Sunday, authorities banned trade in wild animals and urged people to stop eating meat from them.",92.5,High,Left-center,USA,1
+68,https://www.worldhealth.net/news/corona-virus-2020-global-pandemic/,WorldHealth.Net,8/28/20,['Carol Petersen'],Corona Virus 2020: A Global Pandemic?,https://www.worldhealth.net/media/original_images/AdobeStock_224323752.jpg,"Article courtesy of: Carol Petersen RPh CNP
+
+Influenza (flu) is defined as an acute, commonly epidemic disease, occurring in several forms, caused by numerous rapidly mutating viral strains and characterized by respiratory symptoms and general prostration. (1) The flu has a major impact on the lungs. Colds start in the nose and upper respiratory tract. Vomiting and diarrhea are assigned to yet another viral family.
+
+Corona Virus
+
+We are currently in the grip of a media frenzy and potential public health disaster. A new type of corona virus has emerged from a large city in China, Wuhan, and the world is bracing for an impact of a major epidemic. We have been here before, however, we have already experienced MERS (Middle East respiratory syndrome) and SARS (severe acute respiratory syndrome) along with the same specter of massive numbers of deaths. Corona viruses are thought to be generally mild and not very virulent. This type of virus is found very commonly in animals. Some now believe that the virus for MERS, SARS and now the Wuhan Virus has somehow unnaturally been transmitted to humans, and humans have now become another vector for this infection.
+
+Western Medicine, Louis Pasteur and Antoine Béchamp
+
+We have developed Western medicine primarily by following the teaching of French chemist Louis Pasteur (1822-1895) and the Germ Theory of Disease. Pasteur believed that diseases were caused by outside pathogens invading the body. Antoine Béchamp a Pasteur contemporary, disagreed. He believed that it was that the condition of the body, the terrain, was the source of illness. A healthy body is dependent upon its acid/base balance; its charge; the amount of toxicity and its nutritional status. Only tissue that is already diseased can harbor organisms that become pathogenic. We are starting to appreciate our complicated relationships with the microbial world as we have begun to explore the wonderful world of our microbiomes. This disease theories of Pasteur have led us to the doctrines of virology and immunology. This evolution began before we learned anything about vitamins, trace minerals and other nutrients. (2)
+
+Vaccinate!
+
+Western medicine is now leaving the world of antibiotics. Antibiotics are failing and have served to create more pathogens that are resistant to antibiotic treatments. Western medicine is now embracing vaccination. And why not? There are untold numbers of microbes and 7.8 billion people on earth to experiment upon. Pharmaceutical companies have more and more vaccines in their pipelines. All they must do is to convince us and our governments that their vaccines are the only thing that saves us from vast epidemics, severe illness and probably death. And not a surprise the Corona virus has already been patented. Even at best, this season’s flu vaccines have already proven to be 70% ineffective. The promise of herd immunity does not hold up with vaccinated populations. (3)
+
+Nine Months to a Corona Vaccine
+
+On January 23, 2020 the company Moderna, Inc announced that it is partnering with the US National Institutes of Health (4) to develop a vaccine to prevent infection by the corona virus within the next 9 months. They promise new technology to address this life-threatening epidemic. Sound good? It might be if vaccinations worked. It might be if organisms didn’t rapidly mutate to new forms as they pass through their vectors. It might be if vaccines didn’t also depend on heavy metals to aggravate the immune system. It might be if animal and human DNA from the viral growth medium weren’t injected into the body without any clue for the long-term consequences. Vaccines do not work.
+
+How is the Flu Deadly?
+
+Most of us have experienced the respiratory illness that is characterized as the flu at some point in our lives. Temperatures rise as it is part of the body’s natural defense mechanism, but not always. There are aches and pains and general malaise and coughing. Most of us take to our beds until we feel better. However, some days after the viral assault, pneumonia (inflammation of the lungs), caused by bacteria can set in. This infection can become life threatening as it spreads, and organ systems become compromised. If someone is already struggling with organ system problems, let’s say with cardiovascular disease, diabetes, or renal issues, this can become the tipping point. The infection can lead to sepsis, a systemic inflammatory response, shutting down organ systems leading to death. Even in young healthy people, this response, also called a cytokine storm, can overwhelm the body.
+
+Back to Antoine Béchamp
+
+This is the other option. We can choose to help our body’s terrain remain in its healthy state, and if we get sick we can choose to return our body to that healthy state rather than embrace warfare on our microbial world and be left with the consequences of the “friendly fire”. The rest of this article will focus on staying well and getting well despite a flu epidemic. Admittedly, it is getting to be more and more difficult. Our water, our air and our food have become compromised like never before in human history.
+
+Basic and Free (or almost)
+
+Wash your hands. We can’t live our lives and avoid contact with other people. However, we can minimize the challenges to our immune system by frequently washing your hands. After the SARS outbreak in 2003, a Toronto epidemiologist related that the installation of numerous handwashing stations and maintaining sanitary protocols stopped the spread of SARS in its tracks. (5)
+
+Plain soap and water will do. You can find alcohol and chemical wipes everywhere, but this is not the best choice as these chemicals strip your skin of their natural oils which also protect you. It’s better to use wipes that have been infused with essential oils. Essential oils have power antiviral activities and can be inhaled and infused. Using a diffuser in public spaces such as schools could cut down viral transmission. This reference holds a long list of the most effective essential oils and herbal remedies. (6)
+
+The So-Called Flu Season.
+
+“...it has been my observation that those patients receiving a Vitamin D injection in the fall have never had a substantial cold or flu during the winter. Interestingly, the dose of a single injection is 400,000 IU (International Units). While that seems a substantial dose, after administering many thousands of injections, I have never seen an example of the Vitamin D levels climbing too high. As a matter of fact, some individuals are so depleted at the intracellular level that they might need 2 or 3 injections over the winter months to preserve optimal levels of vitamin D.” Dr. Dale Guyer, Indianapolis posting in Facebook.
+
+Vitamin D is a primary tool for preventing infection of all kinds. The flu season coincides with the greatest lack of sunshine and the opportunity to create vitamin D in the skin. It is easily supplemented. Optimal levels should be 70-80 ng/ml. Supplementing vitamin D can be preventative. High doses can be used to treat an acute incidence of the flu. (7)
+
+Linus Pauling and Vitamin C
+
+Linus Pauling’s claim to fame was to make vitamin C a household word. He extolled the virtues of vitamin for prevention and treatment for colds and the flu. Vitamin C can be used in smaller doses as prevention and ramped up to bowel tolerance for treatment. In severe cases, a physician may offer even higher doses in an IV treatment to speed recovery from the flu. Using vitamin C in a phospholipid delivery system can also provide higher and effective doses. (8)
+
+Hydrocortisone
+
+Dr. William Jefferies spent his entire career studying hydrocortisone or cortisol. In his 80’s, he made an interesting discovery. After deliberately infecting some volunteer students, he discovered that the virus inhibited the pituitary hormone ACTH which is responsible for the adrenal production of hydrocortisone. That feeling of malaise and the aches and pains and headaches that come with the flu are quickly eradicated by using supplemental hydrocortisone. Practitioners can provide the drug Cortef to be used orally. However, hydrocortisone 1 % cream can be found in drug stores and applied to the skin. To prevent the flu, establish that there are no underlying hydrocortisone deficiencies. Practitioners rely on an Adrenal Stress Index saliva test or morning cortisol in the serum to identify problems. Dr. Jefferies used maintenance doses such as 5 mg of hydrocortisone every 6 hours. In the case of an acute flu, larger doses should be used immediately, and relief is rapid. (9)
+
+Ozone
+
+Antibiotics are starting to fail as mentioned above. But we really don’t have to worry much despite the dire prognostications. Ozone, a gas, which is a very reactive form of oxygen can treat any infection. Ozone treated water can be used in hand washing and cleaning surfaces. Ozonated oils such as olive oil can be gargled if there is a sore throat. You can use ozone in your ears, vaginally, or rectally for a full body treatment. You can also ozonate your bath water. A practitioner can help you with intravenous options if a serious infection has persisted. The American Association of Ozone Therapy is a great resource to learn about ozone. (10)
+
+To Be Continued
+
+We are just scratching the surface so far on all the methods we may use to deter getting an infection and what steps we can take to treat an infection. Humanity has survived on the earth for millions of years. There are multiple modalities, both conventional and traditional that can strengthen the immune system and help prevent infections. We can open the door to rediscover and identify our rich histories of healing modalities. We have choices. We don’t have to rely only on hastily devised, unproven and untested therapies alone.
+
+Don't forget to read the companion article: https://worldhealth.net/news/2020-coronavirus-report/",30,Low,Center,USA,0
+7,https://www.worldhealth.net/news/natural-ways-combat-flu-virus-symptoms/,WorldHealth.Net,9/29/20,[],Natural Ways To Combat Flu Virus Symptoms,https://www.worldhealth.net/media/original_images/AdobeStock_223166583.jpeg,"Influenza is caused by a virus, and there are several kinds that can give you the flu. While there is no cure for the flu, there are ways both pharmaceutically and gentler more natural approaches to help soothe flu symptoms that may help to shorten how long you are sick.
+
+It is very important to drink plenty of water and other fluids, especially when you are not well to help your body loosen and get rid of built up mucus and phlegm to clear away. It is also very easy to get dehydrated when you are not feeling well and are not drinking or eating normally. In addition, fever, diarrhea, and vomiting can cause water loss.
+
+To help your body stay hydrated other than drinking water you can also drink coconut water, herbal teas, fresh juice, soups, broths, and consume fresh fruits and vegetables. You will be able to tell if you are drinking enough liquids if you have to urinate frequently, and the colour of your urine is pale yellow or clear. If your urine is deep yellow to amber you may be dehydrated.
+
+If you are a smoker it may be best to refrain from the habit while you are ill as much as possible because it can further irritate your nose, throat, and lungs.
+
+It is also important to get more sleep when you are sick because sleeping helps to boost the immune system which will help your body fight off the virus. If you have plans it is best to cancel those to avoid spreading the virus and to make sleep a priority to help your body get back on your feet.
+
+Warm chicken or beef bone broth is also good to consume to help stay hydrated, it will help to loosen and break up nose/sinus congestion. Bone broth is an excellent source of natural minerals such as potassium and sodium as well as replenishing other nutrients and protein that are important to rebuilding immune cells while you are sick.
+
+Zinc is important for the immune system, it helps the body make germ fighting white blood cells, and research suggests that it may help to ease cold and flu symptoms as well as help the body fight the virus while slowing down how fast it multiplies. Zinc can be supplemented or obtained through diet in sources such as red meat, shellfish, lentils, beans, eggs, dairy, lentils, chickpeas, nuts and seeds.
+
+A salt water gargle can help to soothe a sore throat and clear mucus. Boil water and let cool until at room temperature, add ½ teaspoon of salt to 8 ounces of warm water and gargle at the back of your throat for at least 10-30 seconds to rinse your mouth and throat. Spit out into sink and repeat 2-4 times. Please don’t swallow the salt water, and don’t use on children, they can safely gargle with plain water.
+
+Many herbs carry natural antiviral and antibacterial properties that can help while you are sick. Star anise is the star shaped spice that oseltamivir (Tamiflu) was extracted from traditionally. This has antiviral properties that can be effective against some strains of the flu virus. Other herbs that may help can be brewed into hot herbal green/black teas to help soothe symptoms to mix with star anise include turmeric, ginger, garlic, and cloves. If you would like some sweetness try using honey rather than sugar, for best results try royal jelly which has been shown to have natural antibacterial and antiviral properties. Some natural health stores may even have bagged teas with all of these ingredients already combined together.
+
+Essential oils may help to protect you against certain bacteria and viruses. Tea tree oil has been shown to help combat flu viruses by slowing or stopping the rate at which the virus multiplies; research suggests it works best when used within 2 hours of infection. Adding a few drops of this essential oil to hand soap or lotions can help to stop spread at a common source, and some mouthwashes also include tea tree oil as an ingredient.
+
+Other essential oils and plants that also have natural antivirals and antibiotics include cinnamon oil, peppermint oil, eucalyptus oil, geranium oil, lemon oil, thyme oil, and oregano oil. Be sure to use these oils only as directed, and do not ingest essential oil as many are toxic. Most can be used on the skin after being diluted with a carrier oil such as coconut, olive, or almond oil. Fresh dried herbs and spices can also be added to the mixtures for added benefits.
+
+Essential oils diffused into the air may also help against some strains of viruses and bacteria. However, it is not advised to use this kind of aromatherapy on children, pets, while breastfeeding or during pregnancy.
+
+Flu viruses prefer dry indoor air in which they can survive longer, and spread more easily. Colder outdoor temperatures typically lower humidity, as such using a humidifier in your home and workplace may help to reduce flu viruses in the air.
+
+Steam inhalation therapy uses hot water vapor to help loosen mucus congestion which may help to relieve swelling in the nose/lungs, as well as soothe a dry cough, irritated nose, and chest tightness. It is best to avoid steam from water while it is boiling, and test the temperature before breathing it in to avoid scalding or burning yourself. You can even add a few drops of essential oils or medicated vapor rub to the hot water for added antioxidant, antibacterial, and antiviral benefits.
+
+Having a flu that is affecting your stomach is difficult as it can cause nausea, cramps, diarrhea, and vomiting. During this time only eat small hand sized portions of food at a time, and stick to bland foods that are easier to digest such as bananas, rice, toast, applesauce, crackers, soup, broth, and boiled potatoes. Try to avoid any food that may irritate your stomach and digestion such as caffeine, milk, cheese, spicy food, fatty food, fried foods, and alcohol.
+
+Most flu viruses will typically cause respiratory symptoms such as fever, chills, headache, body aches, runny/stuffy nose, sore throat, dry cough, tiredness, fatigue. Stomach flu viruses cause digestive symptoms such as chills, fever, nausea, vomiting, diarrhea, and cramps.
+
+Sometimes flu viruses can lead to other health complications by triggering other viral or bacterial infections in the ears, lungs, throat and other areas to promote sinusitis, ear infections, encephalitis, bronchitis, and pneumonia. Those who are at an increased risk for such complications include those with other health conditions, adults over the age of 65, and children who are under the age of 5.
+
+If you are sick with a flu virus it might be best to speak with a doctor if you have a chronic condition such as asthma, diabetes, kidney disease, liver disease, epilepsy, sickle cell anemia, heart disease, stroke, or a lung condition.
+
+If you have a fever over 100.4°F/38°C you should see a doctor, and you should seek medical attention if your symptoms are not improving after two weeks. Be sure to see a doctor if you are having trouble breathing, chest pains, chills or sweating, mucus that is an odd colour, blood in mucous, severe cough, or high fever.
+
+Viruses can cause both cold and flu, both infections will give you a fever, and both have similar symptoms the main difference is how bad the symptoms are and how long they last. Flu symptoms are typically sudden and severe, lasting 1-2 weeks. Cold symptoms are generally milder lasting for one week or longer.
+
+Most cases of the flu will not require medical attention, if you are sick, please stay home and rest so that you don’t spread it to other people at work/school. Home remedies can help to reduce symptoms to make you more comfortable and rest more while you are ill, and the rest will have an enormous influence on how quickly you get better.
+
+Quick tip from Dr. Klatz with the scare of this novel coronavirus spreading to boost your immune system make sure that you are getting enough vitamins C and D, as well as selenium, garlic, and liquid iodine to help fight off any cold or flu viruses looking to set up camp in your body.
+
+Be sure to also read the article called “Corona Virus 2020: A Global Pandemic?” written by Carol Petersen RPh CNP for more tips in her editorial.
+
+Also check out this companion article written by Dr. Ron Klatz, who is the president and co-founder of the American Academy of Anti-Aging Medicine (A4M) : https://www.worldhealth.net/news/2020-coronavirus-report/",30,Low,Center,Egypt,0
+81,https://www.npr.org/2020/01/30/801107140/trumps-legal-team-shifts-defense-argument-coronavirus-outbreak-pompeo-in-britain,National Public Radio (NPR),10/30/20,[],"Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain",https://media.npr.org/assets/img/2020/01/30/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400,"Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Correction: In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. — President Trump's legal team shifted its defense strategy during the first day of questions and answers in the Senate. Will there be more changes today? Meanwhile, Republicans are confident that they will have enough votes to block witnesses from testifying. The number of coronavirus cases has now reached nearly 8,000, with more than a dozen countries reporting at least a few cases. What preparations is the U.S. taking to combat the spread of the virus? Also can the Secretary of State Mike Pompeo persuade Britain to overturn its decision to work with the Chinese tech giant Huawei on its 5G infrastructure?
+
+Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Listen · 13:07 13:07 Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain 13:07 Up First Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Trump's Legal Team Shifts Defense Argument, Coronavirus Outbreak, Pompeo In Britain Listen · 13:07 13:07 Correction: In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. — President Trump's legal team shifted its defense strategy during the first day of questions and answers in the Senate. Will there be more changes today? Meanwhile, Republicans are confident that they will have enough votes to block witnesses from testifying. The number of coronavirus cases has now reached nearly 8,000, with more than a dozen countries reporting at least a few cases. What preparations is the U.S. taking to combat the spread of the virus? Also can the Secretary of State Mike Pompeo persuade Britain to overturn its decision to work with the Chinese tech giant Huawei on its 5G infrastructure? Correction In this podcast, NPR's Mara Liasson discusses what she says was a question asked by Democrats and answered by Alan Dershowitz. It was actually Republican Sen. Ted Cruz who asked the question. NPR thanks our sponsors Become an NPR sponsor",100,Very high,Center,USA,1
+9,https://www.worldhealth.net/news/2020-coronavirus-report/,WorldHealth.Net,11/30/20,['Dr. Ron Klatz'],2020 Coronavirus Report,https://www.worldhealth.net/media/original_images/2020coronasolutionKlatz.jpg,"Article courtesy of: Dr. Ron Klatz M.D., D.O. who is the President/Founder of the American Academy of Anti-Aging Medicine (A4M), best selling author, lecturer, innovator, medical scientist, leading authority on anti-aging and longevity, and advocate for health, happiness, and wellness for all.
+
+The numbers on the image correspond with the numbers in the article body.
+
+1. This epidemic virus spread may be cancelled with a simple and very inexpensive decontamination kit that you can purchase most of the parts for at your local discount dollar shop. The materials mentioned in this article can help to stop infections from spreading by mouth, nose, eyes, ears, and hands by providing a personal protective barrier.
+
+The Low Cost Viral Defense Kit
+
+2. A clear plastic whole face mask can provide protection for your eyes, nose, ears and mouth. These are typically manufactured from plastic materials similar to common plastic bottles. They have a small opening at the mouth hole that allows for easy breathing, and this opening has protection with a respirator like filter to prevent virus inhalation or an antiviral imbedded filter respirator mask material for your safety.
+
+3. Hoody jackets or parkas with hoods that pull tightly around the mask with elastics on the waist and wrist form a seal. These are manufactured with materials that are threaded with both copper and silver threads that kill viruses on contact.
+
+4. Antiviral/anti-infectious gloves contain antiviral solutions bound right into the material. These gloves also have elasticated wrists for protection of hands and reduce the possibility of picking up unwanted germs.
+
+5. Having a simple decontamination kit ready when you arrive at your destination will give you the ability to spray down the gloves, hoody and mask. Once sprayed with the antiviral, which should be packed waiting in a large bucket, store all materials in the container while not in use with a tightly sealed lid.
+
+Infections can’t occur unless they are given an opportunity to penetrate the mucous membrane of the eyes, mouth, and nose. This simple low cost kit will help to reduce the spread of the coronavirus as well as other pathogens to keep the wearer safe.
+
+Five minute PCR diagnostic testing
+
+Airport surveillance for infectious disease is little more than TSA theater.
+
+The coronavirus is reported to have an incubation period of eight days or more which means that an individual would not display symptoms early in the infection, and could transmit the virus to many others around him.
+
+6. A more effective and intelligent means of identifying those at risk to themselves and others would be a rapid PCR test that only requires a swab against the cheek or tongue for a quick analysis within five minutes with an accuracy near 100%. This test and could be easily done prior to boarding and would ensure that no one on board would be transmitting viral particles to other passengers with the costs for such testing being very minimal.
+
+Airlines as incubators
+
+It’s been said that flying for hours with 300 strangers in the cabin is like spending an evening in a sewer pipe.
+
+7. A readily available solution to this situation is to open all air vents to purge the cabin in-flight with fresh air, as currently almost all air in the cabin is recirculated including viral particles in the air making most flights the equivalent of biological gas chambers. There are commercially available viral filtration, ozonation and ionization devices that will fit into existing airline air conditioning systems to improve the quality of air, and reduce the risk of infection. Airlines have been reluctant to implement such public health measures due to increases in costs per flight.
+
+Once on the ground airline cabins can be effectively disinfected by flushing the cabin air with a highly concentrated blast of ozone and ions which will seek out and bond to all biological compounds. Currently there are ion generators available at low costs.
+
+Innovative Therapeutics
+
+8. An exciting new technology is Photo Modulation Intravenous Blood Irradiation which can be easily accomplished thanks to recently developed technology that allows for intravenous delivery of photosensitizing agents to the blood that can have specific antibacterial and antiviral actions as well. Ultraviolet/ozone/ or red laser light irradiation of the venous blood itself can be achieved through a simple IV line. This technology has been proven to be remarkably effective in laboratory tests against multiple different viral and bacterial infectious pathogens.
+
+Proven safe and natural therapies
+
+9. There are dozens of well-known safe and natural TCM herbal nutritional botanical or pharmaceutical agents that have demonstrated strong antiviral actions and/or immune stimulating actions that can be recruited in the treatment of coronavirus.
+
+ozone, liquid iodine, garlic, turmeric, ginger, oregano, zinc, star anise, basil,
+
+rosemary, peppermint, echinacea, apple cider vinegar, green tea, colloidal silver,
+
+astragalus, selenium, vitamins C/D/E, elderberry, liquorice, St John’s wort, and tea tree oil.
+
+Hand Hygiene
+
+Hands are the number one source for spread of bacteria, viruses and other pathogens that are looking to infect you by gaining access to the body via your mucus membranes. So wash your hands often, again and again. Make sure to wash your hands frequently when in public, especially after using the restroom, before handling/consuming food, touching your face, or after touching highly used things such as door handles, crosswalk signal buttons, and elevator buttons, and then again when you return home.
+
+Wet your hands with clean running water and apply soap. Lather your hands with the soap making sure you wash the back of your hands, between your fingers, palms, wrists, and under your nails to remove all dirt, organic matter, and most of the transient organisms that may have been acquired through contact with another person and the environment. Do not give these nasties the chance to penetrate your mucus membranes from your hands.",30,Low,Center,USA,0
+10,https://www.worldhealth.net/news/how-viruses-easily-infect-people-their-eyes-during-outings/,WorldHealth.Net,12/31/20,[],How Viruses Easily Infect People Via Their Eyes & During Outings,https://www.worldhealth.net/media/original_images/AdobeStock_109196479.jpeg,"Viruses can survive outside of the human body for varying lengths of time after being expelled from the infected host. First the nasty will remain inactive in a non-hostile liquid, wet or moist medium, when that environment dries out the virus can then remain dormant in a dry state for weeks to months depending on the type of virus.
+
+Viruses are expelled out from an infected body into the air after a person sneezes or coughs. Unless covered up a sneeze can eject at over 100 miles per hour and as many as 50,000 individual aerosolized micro droplets of saliva and other moisture can be expelled to travel for a distance between 19-16 feet according to research from MIT.
+
+Uncovered aerosolized blasts of mist expelled from the cough or sneeze will be carrying viruses and bacteria, each of these droplets can hang in the air for minutes or longer depending on the size and weight of the droplet. Anyone who is not infected can walk into these particulates and inhale them to then become infected.
+
+In addition to inhaling the tiny aerosolized mist some of it can land in the moist eye to gain entry to the body and begin infection, all without the uninfected person knowing, and for the majority of people without them even thinking that the eye can be a portal to infection. Should an uninfected person touch a contaminated object/surface such as a door knob, elevator button, countertop, pen, or ATM/debit card station button they may even pick up disastrous microbes that have been left behind by an infected person. The potential to pick up a live virus while out in public is scary and enormous.
+
+""These tiny droplets float through the air and you can get a cold, the flu or another illness when you come into contact with them. Sneeze and cough germs spread far and fast,"" explained Dr. Stephanie Kelleher, a Geisinger family physician.
+
+Recently, a physician in Wuhan China says that he is positive that he became infected with the coronavirus via his eyes when he was working with infected patients. It is rather easy to do as explained above. Simple walk through an area where someone has coughed or sneezed, or even touching a contaminated area and then rubbing your eyes/mouth/nose will immediately re-activate the virus in the moisture.
+
+Even the Ebola virus has been confirmed to be living in human eyes. Potentially any wet, moist non-hostile surface/medium/environment outside of the human body can become a host to any virus or bacteria. When that dries up they will still remain there in a dry state in wait to be picked up by someone who then will touch their mouth, nose, or eyes which will put the virus back into a wet and warm environment where it will readily begin to quickly replicate and infect its new host almost immediately.
+
+How long a virus or bacteria can survive outside in a dry state without a host varies, in the case of TB bacteria that can be for decades. It has not yet been determined how long the coronavirus can live outside a host, but conservative projections are at least 5-7 days. Keep in mind it could be longer as in the case of HIV it has been shown to live in a dry state for far longer than that.
+
+To protect yourself, especially when out in areas where infection is known, you should wear an N95 rated face mask with a moisture barrier, and you should consider wearing eye protection as well. Wearing gloves, washing your hands frequently and keeping them away from your face and food until you do is most important. Be aware of where you are and the potential places where transmission of disease can occur such as those touched and shared by literally thousands of people which includes retail store card terminals, pens, school/work/library desks, elevator buttons, store door handles, public restrooms, public transportation poles/handles, shopping carts, crosswalk buttons, playground equipment, handrails, steering wheels, touch screens, computers/laptops, and more, they are all just crawling and teaming with a legion of microbes. Ick.
+
+Don't forget to read the related article: https://worldhealth.net/news/2020-coronavirus-report/",30,Low,Center,USA,0
+1925,https://bigleaguepolitics.com/google-facebook-microsoft-lobbying-trump-to-keep-h1b-cheap-labor-visa-program/,Big League Politics,5/23/20,"['Richard Moorhead', 'Shane Trejo']","Google, Facebook, Microsoft Lobbying Trump to Keep H1B Cheap Labor Visa Program",https://bigleaguepolitics.com/wp-content/uploads/2019/06/Google-Ben-Shapiro-nazi.jpg,"300 of America’s most powerful corporations have signed onto a lobbying effort to pressure the Trump administration not to cut the H1B cheap labor visa program. Silicon Valley megacorporations Facebook and Google have signed onto a letter urging for visas to be maintained, and Microsoft has as well.
+
+The companies claim that their hiring needs reflect the ‘national interest’ and that they need to import hundreds of thousands of foreign college graduates to work for them.
+
+“The undersigned represent employers that rely on a highly skilled, college-educated, science and engineering workforce, including non-immigrant professionals, to innovate, produce, research, develop, and lead.”
+
+Trending: Vicious Nursing Home Attacker Had COVID-19 and Was Quarantined Among the Elderly Despite Mental Illness and Felony Charges
+
+The abuse of the H1B visa system to replace American workers with cheaper and more compliant foreign visa workers is both extensive and well documented within the technology industry. The visa structure keeps its recipients dependent on their employer for legal status within the country, creating a form of de facto indentured servitude in which employers have near-complete control over the workers they sponsor for the visas.
+
+take our poll - story continues below
+
+LOCKDOWN POLL: Should America reopen for business? 🔒LOCKDOWN POLL🔒 Should America reopen for business?
+
+LOCKDOWN POLL: Should America reopen for business? * Yes, it's time to get back to work. Americans are suffering. No, the risk is too great, even with 26 million unemployed.
+
+Email *
+
+Name This field is for validation purposes and should be left unchanged. Completing this poll grants you access to Big League Politics updates free of charge. You may opt out at anytime. You also agree to this site's Privacy Policy and Terms of Use.
+
+The visa system also enables major employers to depress wages within the American workforce, allowing companies to import workers from countries with vastly lower labor and living standards. President Donald Trump’s administration is considering suspending the program on an indefinite basis in the midst of the coronavirus recession to place American workers first again, lining up the nation’s professionals to reap the gains of economic recovery. Leading immigration patriot senators are pushing for the President to place the program on ice.
+
+""it was both surprising and encouraging to see one group that’s severely affected by the importation of foreign labor finally become self-aware and stand up for itself."" https://t.co/oFq52VYFSr — Mark Krikorian (@MarkSKrikorian) May 23, 2020
+
+The notion of doubling down on the hiring of new American workers- even as millions of Americans are driven into unemployment through the coronavirus recession- appears simply inconsiderable for the country’s wealthiest and most affluent technology companies. Instead, they appear to prefer a nonstop flow of cheap labor to drive up their comfortable profit margins even further.",12.5,Low,Extreme right,USA,0
+1926,http://sputniknews.com/analysis/202005231079398120-trump-changed-his-attitude-to-china-when-noticed-covid-19-may-hurt-his-election/,Sputnik News,8/23/20,[],Trump Changed His Attitude to China When He Noticed COVID-19 May Hurt His Election Campaign - Pundit,https://cdn1.img.sputniknews.com/images/107935/86/1079358628.jpg,"Tensions between the US and China soared in the summer of 2018, when Washington hiked duties on $50 billion worth of Chinese imports in a bid to balance the trade deficit. Since then, the two countries have waged what has often been referred to as a trade war, exchanging several rounds of reciprocal tariffs.
+
+The Trump administration presented a report titled ""U.S. Strategic Approach to the People’s Republic of China"" to members of Congress on 20 May, saying that it acknowledges the existence of strategic competition with Beijing and will protect its interests accordingly in light of a direct challenge posed by the Chinese Communist Party (CCP).
+
+Dr Ching Chang, a research fellow at the Society for Strategic Studies and a leading Chinese military and strategy analyst in Taiwan, has shared his views on the recently escalated Sino-American tensions, which were exacerbated by Washington's accusations against Beijing of ""mishandling"" the pandemic.
+
+Sputnik: How would you explain the acceleration in the split between the US and China and growing criticism from the American side?
+
+Dr Ching Chang: We should very cautiously identify the fundamental Sino-US animosities and the short-term disputes between the US and China in the foreseeable future. Some issues are associated with the temporary political assumptions in the moments of the US election campaign, such as unbalanced trade, blaming the COVID-19 epidemics and commercial competition. Nonetheless, certain matters may seriously affect the global power status in the long run, like influences in international organisations, technology specifications and circulation level rivalry of the currency.
+
+The criticism from the United States is really not the dominant factor since most of the nations in the world may execute their own national interest calculus and may ignore these US viewpoints. However, the privileges of setting the institutions in the international community and supports as well as consents from other nations in the world will decide the future leadership position. Beijing has a strong ambition to embrace globalisation and Washington, by contrast, has a firm intention to secure its own superiority above other nations and less willingness to commit to the world order as before. This difference in mentality is the eventual factor that is accelerating the rivalry between Beijing and Washington.
+
+Sputnik: The 20-page report expands on President Donald Trump's get-tough rhetoric that he hopes will resonate with voters about China's handling of the coronavirus outbreak. How viable do you consider such expectations to be?
+
+Dr Ching Chang: We should have no surprise about the base-tone of this report. This is actually very sensible for serving Trump’s election campaign strategy. The matter now is not literally how you say and what you say at the moment, but the consequences of abolishing the epidemic control after many states gradually lift the shut-down status and resume normal life. Six months are still left before the voting date. At the moment, President Trump holds the privilege of dominating the information and public presences. His competitor, Mr Biden, is in an inferior position to provide his perspectives to the American general public. This situation will be changed after the election campaign starts to get hot whilst most of the states lift the manoeuvre restrictions.
+
+Whether Trump’s scheme of mass distraction can be viable is hard to say at the moment. Trump is a very agile politician. Should he change his statements or positions in the following months may indicate whether he may still believe that by tarnishing Beijing he could save his political future. We should never be surprised that such a hairpin style turn may occur before the vote. Trump will do whatever it takes to get the votes he would like to have. The moral standard of a businessman may impress us all the time.
+
+Sputnik: The Trump administration sees ""no value"" in engaging with Beijing for symbolism and pageantry, according to the report. What are the chances of the two countries restoring relations to pre-COVID levels? If this isn’t likely, then what kind of rhetoric do you expect in the short-run?
+
+First, it is hard to well define a pre-COVID level, if we may still remember Trump’s attitude was changed dramatically in February once he noticed that the COVID outbreak may hurt his election campaign programme. He first blamed Democrats and Congress and subsequently targeted the WHO. After these struck back and seemed not helpful to his approval rate, Mr Trump shifted the target to Beijing. I would like to argue that there was no pre-COVID level of Sino-US relations, but only Mr Trump’s personal political preferences and his requirements for political consumptions.
+
+History is a dynamic process. All the progress may lead us to a totally new situation. We should never expect to restore anything that originally existed before. Given the international mechanism and treaties withdrawn by Trump’ administration so far. No matter who can be the successor of Mr Trump, the next US president, next year or another four more years, will need to face a world needing restorations after Trump’s era. This is exactly the reason why the leadership in Beijing rarely says anything to Mr Trump’s comments on his Twitter. He should ask who feels “no value” to engage with him and why they think so.
+
+The views and opinions expressed in the article do not necessarily reflect those of Sputnik.",12.5,Very low,Right,Russia,0
+1927,http://sputniknews.com/middleeast/202005231079400463-alleged-birthplace-of-jesus-disciples-flooded-by-rising-sea-of-galilee-water/,Sputnik News,6/23/20,[],Alleged Birthplace of Jesus’ Disciples Flooded by Rising Sea of Galilee Water,https://cdn2.img.sputniknews.com/images/104890/62/1048906209.jpg,"Most recently, el-Araj near the north shore of the Sea of Galilee, housed an Ottoman “winter palace”, blown up by the Israelis during a 1950’s conflict with its Arab neighbours, yet the ancient ruins miraculously survived the onslaught.
+
+Precipitation in the Holy Land in general, and the level of the Sea of Galilee in particular have long been thoroughly studied, a report by Haaretz suggests, detailing current excavation efforts in an area called el-Araj, a historic spot where events depicted in the Bible allegedly unfolded.
+
+After several years of drought, whole parts of el-Araj are now sitting in water due to this year’s inundation, with the relatively higher points resembling tiny islands purported to be concealing real historic treasures.
+
+The beyond normal precipitation has reportedly suspended excavation efforts originally slated for early summer 2020, which is projected to also be marked by the continuing coronavirus crisis and lockdowns.
+
+“At the moment, the water is 80 centimetres [2 feet, 7 inches] above the mosaic of the Byzantine church, which was built 500 years after Jesus’ time”, archaeologist Motti Aviam pointed out, adding that researchers have tentatively identified the structure as the Church of the Apostles, which Christian tradition says was built over the home of Jesus’ disciples Peter and Andrew in the village of Bethsaida.
+
+They came to believe it was a church by, among other things, gilded glass mosaic, known to have been typically used in wall mosaics in churches as well as fragments of the chancel screen. Also, it is the only Byzantine church found so far that is in line with the description given by a Bavarian bishop named Willibald who reportedly toured the Holy Land in the year 725.
+
+© AP Photo / Oded Balilty An aerial view shows the Jordan River estuary of the Sea of Galilee near the community settlement of Karkom, northern Israel (File)
+
+Meanwhile, El-Araj, also known as Beit Habek, is just one of the candidates for the site of the ancient Jewish fishing village of Bethsaida, mentioned in the New Testament as the birthplace of three of Jesus’ disciples. The other major competitor is et-Tell, a little further north of el-Araj on the north shore of the Sea of Galilee.
+
+The excavation there is being led by the archaeologist Professor Rami Arav of the University of Nebraska at Omaha. According to Arav, historical documents say that Bethsaida existed from the late Hellenistic period – in particular, in the first half of the first century, when his geologists say el-Araj was covered by water, as it is now, “Philip the son of Herod granting the old village rights of a Greek polis, and Jesus, were all in the first half of the first century, not the second half”, Arav was quoted as saying.
+
+In the not so distant past, the site of el-Araj housed the “winter palace”, or Beit Habek – a two-storey building dating back to the Ottoman era.
+
+After it was blown up in December 1955 by Israeli paratroopers, the ancient ruins survived the attack and for the last four years have been under archaeological exploration by the Kinneret College archaeological institute, run by Aviam, and Prof. R. Steven Notley of Nyack College, New York.",12.5,Very low,Right,Russia,0
+1928,https://bigleaguepolitics.com/michigan-attorney-general-threatens-to-close-ford-plant-because-president-trump-did-not-wear-a-mask/,Big League Politics,6/23/20,['Shane Trejo'],Michigan Attorney General Threatens to Close Ford Plant Because President Trump Did Not Wear a Mask,https://bigleaguepolitics.com/wp-content/uploads/2020/05/pjimage-2020-05-22T122849.142-1200x630.jpg,"Michigan Attorney General Dana Nessel is threatening to close a Ford plant in Ypsilanti because President Donald Trump did not wear a mask throughout his entire visit to the plant on Thursday.
+
+Nessel claims that if any worker gets sick at the Ford plant, she could make the determination that it happened because of Trump’s visit and shut the plant down. Even though there is no way this could be proven, these are actions Nessel is willing to consider.
+
+“In Michigan, that is the law,” Nessel said while making an appearance on CNN.
+
+Trending: Vicious Nursing Home Attacker Had COVID-19 and Was Quarantined Among the Elderly Despite Mental Illness and Felony Charges
+
+Nessel says that she will be leaning on Ford and at the very least scolding them for allowing the President to come into their facility and wear a mask at his discretion.
+
+take our poll - story continues below
+
+LOCKDOWN POLL: Should America reopen for business? 🔒LOCKDOWN POLL🔒 Should America reopen for business?
+
+LOCKDOWN POLL: Should America reopen for business? * Yes, it's time to get back to work. Americans are suffering. No, the risk is too great, even with 26 million unemployed.
+
+Email *
+
+Comments This field is for validation purposes and should be left unchanged. Completing this poll grants you access to Big League Politics updates free of charge. You may opt out at anytime. You also agree to this site's Privacy Policy and Terms of Use.
+
+“I think we are going to have to have a very serious conversation with Ford in the event that they permitted the president to be in publicly enclosed places in violation of the order,” Nessel said. “They knew exactly what the order was.”
+
+President Trump hit Nessel back in a Twitter post for her insane threats:
+
+The Wacky Do Nothing Attorney General of Michigan, Dana Nessel, is viciously threatening Ford Motor Company for the fact that I inspected a Ventilator plant without a mask. Not their fault, & I did put on a mask. No wonder many auto companies left Michigan, until I came along! — Donald J. Trump (@realDonaldTrump) May 22, 2020
+
+President Trump has generally avoided wearing a mask to set an example for Americans not to submit to fear while the fake news media pumps non-stop coronavirus hysteria to Americans who are essentially being held hostage by the shutdown.
+
+Big League Politics reported on how the president thumbed his nose at Nessel and all of the thugs within Gov. Gretchen Whitmer’s administration before his visit to the Ford plant:
+
+Ford will not threaten Trump with an ultimatum to wear the mask. Trump has avoided wearing a mask during public appearances, showing that he will not succumb to the mass hysteria. The president is setting an example for ordinary Americans to overcome the media-induced panic. “As we have said previously, we shared our safety policies and recommendations with the White House in advance of this visit. The White House has its own safety and testing policies in place and will make its own determination,” Ford said in a statement. Trump has refused the advice of the deep state bureaucracy, which wants to scare people into wearing masks. The mask has emerged as a sign of cowardice and obsequiousness throughout the pandemic. “The CDC is advising the use of non-medical cloth face covering as an additional voluntary public health measure. So it’s voluntary. You don’t have to do it. But they suggest it for a period of time. I don’t think I’m going to be doing it,” Trump said.
+
+Because Nessel cannot do anything against Trump other than whine, she may attempt to punish the Ford plant and put more people on the unemployment line due to her tantrum.",12.5,Low,Extreme right,USA,0
+1929,https://bigleaguepolitics.com/27-men-in-bradford-uk-arrested-for-online-child-sexual-exploitation/,Big League Politics,7/23/20,"['Kris Malysz', 'Shane Trejo']","27 Men In Bradford, UK Arrested For Online Child Sexual Exploitation",https://bigleaguepolitics.com/wp-content/uploads/2020/05/computer-2-1200x630.jpg,"Police in Bradford, UK, a few days ago arrested 27 men, ranging in age from 16 to 57, on charges of sexually exploiting children online.
+
+It was reported that police have been warning of the danger to children from predators online especially now during the coronavirus lockdown which keeps people indoors. Between late March and late April, Scotland Yard claimed that almost 100 children were targeted in London alone.
+
+Some have pointed out that curiously, no information other than age appears to have been given out concerning the arrested men. Given the UK’s abysmal history with foreign rape gangs, overwhelmingly composed of Muslim men from Middle Eastern and Asian countries, this may mean this is just another instance in a depressingly steady pattern.
+
+Trending: Vicious Nursing Home Attacker Had COVID-19 and Was Quarantined Among the Elderly Despite Mental Illness and Felony Charges
+
+Bradford, described as “multicultural” by Breitbart, was the location of yet another case of child grooming gangs, according to a report from 2018. Of the suspects, 63% were of Pakistani background, and many others from other Asian and African countries, with only a minority being “white British.”
+
+take our poll - story continues below
+
+LOCKDOWN POLL: Should America reopen for business? 🔒LOCKDOWN POLL🔒 Should America reopen for business?
+
+LOCKDOWN POLL: Should America reopen for business? * Yes, it's time to get back to work. Americans are suffering. No, the risk is too great, even with 26 million unemployed.
+
+Email *
+
+Comments This field is for validation purposes and should be left unchanged. Completing this poll grants you access to Big League Politics updates free of charge. You may opt out at anytime. You also agree to this site's Privacy Policy and Terms of Use.
+
+Police also reportedly seized over 60 devices which were used both to exploit children online and store indecent pictures.
+
+According to a detective chief inspector, “Targeted operations like these demonstrate that we take the online sexual exploitation of children in Bradford District seriously and that we will take action against offenders and safeguard those children they have attempted to exploit.”
+
+Unfortunately, the UK’s record on the competency and will of its police in dealing with foreign rape gangs does not inspire confidence. Indeed, tragically, there have been multiple cases of cops themselves participating in the abuse of minors.
+
+Despite the nature of the offences and the stated urgency of the issue, as well as the statements of police praising their own actions, for reasons not clear all of the men were released under investigation or bailed shortly after having been taken into custody, and are presumably roaming free once again as inquiries continue.
+
+This, along with the lack of transparency surrounding the case, certainly does not inspire confidence that British children are being protected as they should be. Unfortunately, even the current Conservative government has proven itself feckless and unwilling to truly tackle or even honestly address this issue which is of such dire and tragic consequence to the most vulnerable of its own citizens.",12.5,Low,Extreme right,USA,0
+1930,https://truepundit.com/shock-video-cdc-going-door-to-door-to-collect-your-dna-blood/,True Pundit,5/23/20,[],"SHOCK VIDEO: CDC Going Door to Door to Collect Your DNA, Blood – True Pundit",https://i2.wp.com/truepundit.com/wp-content/uploads/2020/05/cdc1-2-1024x613-1.jpg?fit=1024%2C613&ssl=1,"Alarming video of CDC officials harassing American citizens for DNA samples at their homes has sparked further controversy for the embattled and feckless agency.
+
+We thought people were supposed to stay at home to AVOID infection of coronavirus? The fact that CDC employees — who could be infected from visiting multiple homes — are now visiting residents to collect your DNA would certainly contradict those federal stay-at-home edicts.
+
+That next knock on your door might not be food delivery — it could be the goons from the CDC looking to swab your saliva or bottle your blood. This little-known video first surfaced three weeks ago but has gone largely unreported by the mainstream media. Wonder why.
+
+Listen to the insightful Thomas Paine Podcast Below --",12.5,Low,Right,USA,0
+1931,http://sputniknews.com/us/202005231079396372-largest-us-car-rental-company-hertz-files-for-bankruptcy-over-falling-demand-amid-covid-19/,Sputnik News,5/23/20,[],Largest US Car Rental Company Hertz Files for Bankruptcy Over Falling Demand Amid COVID-19,https://cdn1.img.sputniknews.com/images/101956/40/1019564010.jpg,"To improve the performance of our website, show the most relevant news products and targeted advertising, we collect technical impersonal information about you, including through the tools of our partners. You can find a detailed description of how we use your data in our Privacy Policy. For a detailed description of the technologies, please see the Cookie and Automatic Logging Policy.
+
+By clicking on the ""Accept & Close"" button, you provide your explicit consent to the processing of your data to achieve the above goal.
+
+You can withdraw your consent using the method specified in the Privacy Policy.",12.5,Very low,Right,Russia,0
+1932,http://sputniknews.com/us/202005231079398417-some-americans-believe-in-bill-gates-alleged-involvement-in-covid-19-plot-poll-shows/,Sputnik News,5/23/20,['Oleg Burunov],"Some Americans Believe in Bill Gates’ Alleged Involvement in COVID-19 Plot, Poll Shows",https://cdn2.img.sputniknews.com/images/107897/28/1078972899.jpg,"Anti-vaccine campaigners have repeatedly accused Bill Gates of being involved in conspiracy theories pertaining to the coronavirus pandemic. The Microsoft co-founder, meanwhile, has contributed millions of dollars to the development of a COVID-19 vaccine and testing, as part of global efforts to fight the virus.
+
+More than 40% of self-described Republicans and Fox News viewers believe in a conspiracy theory that Microsoft co-founder Bill Gates plans to use a future COVID-19 vaccine in order to implant microchips in billions of people and monitor their movements, a new Yahoo News/YouGov poll has revealed.
+
+Some 26% of respondents, however, rejected the theory as false, and 31% more said that they were not sure.
+
+They were echoed by 45% of independents, 52% of Democrats, and 63% of people who say they voted for Hillary Clinton in the 2016 US presidential election, stating that they don't believe in the vaccine conspiracy theory, especially Gates’ alleged involvement in it, according to the poll.
+
+The survey also found that only half of Americans are ready to get vaccinated “if and when a coronavirus vaccine becomes available”. Twenty-three percent of respondents said that they would not do so, with 27% admitting that they were still sitting on the fence.
+
+The poll comes after a bizarre rant by Italian lawmaker and vocal anti-vax activist Sara Cunial who last week hit out at Gates as she urged fellow MPs to defy any plans for compulsory vaccination against the coronavirus.
+
+In an apparent reference to the billionaire pumping hefty sums into the development of the COVID-19 vaccine, Cunial asserted that “the real goal of all of this is total control” and “absolute domination of human beings, transformed into guinea pigs and slaves, violating sovereignty, and free will"".
+
+She went even further by saying that “next time you receive a phone call from the philanthropist Bill Gates forward it directly to the International Criminal Court for crimes against humanity”.
+
+The controversial claims followed the Microsoft co-founder saying in an interview with CNBC in April about “a huge challenge” pertaining to “the efficacy of vaccines in older people”.
+
+“Here, we clearly need a vaccine that works in the upper age range, because they're most at risk of that. And doing that so that you amp it up so it works in older people, and yet you don’t have side effects. You know, if we have, you know, one in 10,000 side effects, that's, you know, way more - 700,000, you know, people - who will suffer from that”, Gates added.
+
+The interview was preceded by the billionaire injecting hundreds of millions of dollars, including $100 million through the Bill & Melinda Gates Foundation, into the coronavirus vaccine and testing, as part of international efforts to tackle the COVID-19 pandemic.
+
+In a separate interview with CNN, Gates described current US coronavirus testing data as ""bogus"" because of its inaccuracy and slow turnaround, adding that Washington “does not prioritise who gets tested and […] does not make sure you get results in 24 hours”.
+
+President Donald Trump, for his part, pledged that there would be a vaccine against the coronavirus in the US by the end of 2020, adding that the country will have it “much sooner rather than later"".",12.5,Very low,Right,Russia,0
+1933,http://sputniknews.com/us/202005231079400656-trump-administration-reportedly-mulls-creating-us-alternative-to-some-of-whos-work/,Sputnik News,2/23/20,['Oleg Burunov'],Trump Administration Reportedly Mulls Creating US Alternative to ‘Some of WHO's Work’,https://cdn2.img.sputniknews.com/images/105607/77/1056077745.jpg,"The reported plans by the White House to establish a new State Department unit come more than a month after President Donald Trump announced the suspension of US funding for the World Health Organisation, blaming the UN health body for mismanaging and covering up the spread of the coronavirus.
+
+The Trump administration is considering the possibility of creating a new unit at the State Department that will deal with global responses to future outbreaks of infectious diseases, according to documents obtained by Politico.
+
+Part of an effort in the President’s Response to Outbreaks (PRO), the proposal may also create “an alternative mechanism to some of the work” conducted by the World Health Organisation (WHO) following the White House’s move to suspend US funding for the UN body.
+
+Politico reported that the new State Department unit was discussed during a recent National Security Council meeting, in a sign of the ongoing “turf battle” between the State Department and the US Agency for International Development (USAID).
+
+USAID officials were reportedly “surprised and perplexed by the idea, which could lead them to lose control of significant funds and authorities”. One USAID official was quoted by Politico as saying that the proposal was a “power-grab” by the State Department.
+
+The news outlet also cited unnamed sources as saying that Doctor Deborah Birx, a senior US official who currently deals with Washington’s response to the COVID-19 pandemic, may be at the helm of the new unit “if it becomes a reality”.
+
+The proposed initiative stipulates the State Department appointing a coordinator who will oversee almost “every aspect of pandemic preparedness and response — from the global distribution of vaccines and therapeutics to the development of modernised protocols to prevent the spread of an outbreak”, according to the sources.
+
+Trump Weighs Restoring Partial US Funding for WHO
+
+Plans on the creation of a new State Department unit come after President Donald Trump tweeted in mid-May that he was considering restoring at least 10 percent of US funding for the WHO that was frozen last month.
+
+""This is just one of numerous concepts being considered under which we would pay 10% of what we have been paying over many years”, he wrote in a tweet, adding that he has “not made final decision"".
+
+Lou, this is just one of numerous concepts being considered under which we would pay 10% of what we have been paying over many years, matching much lower China payments. Have not made final decision. All funds are frozen. Thanks! https://t.co/xQUzHy4NDa — Donald J. Trump (@realDonaldTrump) May 16, 2020
+
+In April, POTUS announced that the US’ funding of the WHO would be halted over negligence, claiming that the UN health agency had impeded the global response to the coronavirus pandemic and let it spread by covering up the true scale of the initial COVID-19 outbreak in China - allegations that Beijing rejects.
+
+The US president also announced a suspension period of 60 to 90 days pending the completion of a probe of the WHO and China's actions during the onset of the pandemic.
+
+The decision was slammed by the WHO and the international community, with the US Chamber of Commerce claiming that POTUS had compromised the country’s interests by ending Washington's funding for the agency.
+
+UN Secretary-General Antonio Guterres, for his part, underscored that it was ""not the time to reduce the resources for the WHO […] in the fight against the virus”. According to the organisation’s latest situation report, there are more than 4.9 million COVID-19 cases across the globe, with 327,738 fatalities.",12.5,Very low,Right,Russia,0
+1934,http://sputniknews.com/us/202005231079401450-a-subtle-hint-donald-trump-spends-day-at-his-golf-resort-amid-calls-to-reopen-us/,Sputnik News,3/23/20,[],A Subtle Hint: Donald Trump Spends Day at His Golf Resort Amid Calls to Reopen US,https://cdn1.img.sputniknews.com/images/107645/23/1076452356.jpg,"In the face of an ongoing pandemic, Trump has been actively pushing to reopen the US to boost the country’s economy despite calls from health experts that it will spark a second COVID-19 wave. The US has the highest number of coronavirus cases as, according to data presented by the Johns Hopkins University, 1.7 million Americans have been infected.
+
+US President Donald Trump spent Saturday playing golf at one of his family-owned resorts outside of Washington DC, in a move that US media outlets suggest is a signal to the public that it is right for the United States to return to normal activities amid the coronavirus pandemic, even in areas that are the hardest hit by the deadly disease. A photojournalist caught the moment as Trump left the White House for the resort.
+
+The president headed out of the White House today. Seen here as he put on his glasses. Secret Service wearing masks. Credit to my colleague, photographer Joe Martin. pic.twitter.com/upDn5PedLp — Kelly O'Donnell (@KellyO) May 23, 2020
+
+​This was the first time that the 73-year-old Trump has engaged in his favorite leisure pastime since 8 March.
+
+In another sign that Trump wants the country to reopen as a means of boosting business activity, the US president has resumed travelling across the country. This month he visited Arizona, Michigan and Pennsylvania, key swing states in the upcoming 2020 presidential election. On 22 May, Trump called on US state governors to reopen houses of worship – churches, temples, synagogues and mosques, which are currently shuttered to assist in slowing the spread of the disease. The president claims that lifting the health measures are essential, declaring: “in America, we need more prayer, not less” and threatening to override governors who refuse to do as he demands.
+
+Trump, in the middle of a deadly and ongoing pandemic, has been actively promoting to reopen the United States solely as a means of bolstering the country’s economy, which has sustained severe losses during the lockdowns. Almost 39 million Americans have filed for unemployment benefits since the country introduced safety measures to slow the spread of the virus. All states have made limited reopenings after a two-month shutdown, with various degrees of restrictions.",12.5,Very low,Right,Russia,0
+1935,https://www.naturalnews.com/2020-05-23-plandemic-google-drive-delete.html,Natural News,5/23/20,['Ethan Huff'],"If you have a copy of Plandemic in your Google Drive, Google might try to surreptitiously delete it",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/google-logo-biased.png,"(Natural News) Fake news empire The Washington Post is on a mission to make sure that every single copy of the popular Plandemic documentary film is removed from every last crevice of the internet.
+
+The Jeff Bezos-owned, left-wing rag recently published an article in its “technology” section explaining that fake news employees of the paper are basically being paid to scour the web in search of Plandemic so they can report it to the hosting website and try to have it removed.
+
+One perhaps unexpected place that the Post has had no trouble getting Plandemic removed from is Google Drive, a cloud-based file-sharing service that many Facebook users and YouTubers have been linking to whenever public copies of the film get censored or removed by Big Tech platforms.
+
+Even though Google Drive accounts are supposed to be private, much like your personal hard drive, the Post has reportedly been successful in convincing Google to invade users’ files and remove Plandemic whenever they find a copy.
+
+To those who know the Constitution, this is an obvious violation of free speech and personal privacy. But to the Post, it is a necessary response to the “weaponization” of Google Drive’s services for the purpose of “amplify[ing] dangerous content.”
+
+Because Plandemic offers a different take on the pandemic that does not fully align with the official narrative, the Post and its Big Tech partners do not believe that you should be allowed to view it.
+
+Listen below to The Health Ranger Report as Mike Adams, the Health Ranger, discusses how even Brighteon is now being censored by Facebook, probably because it hosts the Plandemic film without question or restriction:
+
+The Post is now actively policing channels, pages that try to share the Plandemic film
+
+One would think that, logically speaking, there is nothing to fear from allowing Plandemic to circulate far and wide if the content it contains is “false” and “dangerous” as the Post claims. It will eventually debunk itself, right?
+
+Since the fix is on to force it down the memory hole, however, we can only conclude that there must be something to Plandemic that those fomenting the sham crusade against it do not want the public to learn.
+
+Facebook and YouTube both announced back in early May that Plandemic had to go from their platforms because it makes “medically unsubstantiated” claims about the Wuhan coronavirus (COVID-19) pandemic.
+
+Among other things, the film questions the alleged importance of lockdowns. It also features the astute Dr. Judy Mikovitz who wrote a powerful book entitled,Â Plague of Corruption: Restoring Faith in the Promise of Science that questions vaccine safety and effectiveness, a big no-no.
+
+What many social media users are having to do in order to still draw attention to Plandemic online is manually edit out Dr. Mikovitz’s interviews, for instance, or remove the “most problematic claims,” to quote the Post. In other words, only censored versions of the Plandemic trailer are being allowed to circulate.
+
+Elon Musk of Tesla conducted his own witch hunt back in March against the anti-malaria drug hydroxychloroquine, which is similarly being targeted by Big Tech. Musk tweeted a link to a Google Drive document citing a study about the alleged efficacy of the drug, and since that time Google has removed and blocked that document.
+
+When asked if Google actively scans the files that users store in Google Drive, Google spokeswoman Alex Krasov refused to say, adding that her company “doesn’t go into details” about how its anti-misinformation policies are enforced.
+
+More of the latest news about the Wuhan coronavirus (COVID-19) is available at Pandemic.news.
+
+Sources for this article include:
+
+WashingtonPost.com
+
+NaturalNews.com",22.5,Very low,Extreme left,USA,0
+1936,https://www.naturalnews.com/2020-05-23-cuomo-shipped-off-coronavirus-patients-to-ny-nursing-home.html,Natural News,4/23/20,['Michael Alexander'],"Report: Cuomo shipped off 4,300 coronavirus patients to NY nursing homes",https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Sick-Woman-Hospital-Bed.jpg,"(Natural News) Over 4,300 recovering COVID-19 patients were shipped off to New Yorkâs nursing homes and long-term care facilities as a result of a controversial state directive, according to The Associated Press.
+
+In a count published on its site Friday, the news organization tallied the number of COVID-19 patients discharged from hospitals and transferred to nursing homes under Gov. Andrew Cuomoâs March 25 directive after the New York State Health Department declined to release the figures gleaned from its internal survey, conducted two weeks ago.
+
+The health department is still verifying âincompleteâ data.
+
+According to critics, the directive, which had been intended to help free up hospital beds for the sickest patients as cases surged, instead only helped speed up the spread of the Wuhan coronavirus in the mentioned establishments, in addition to placing an additional burden on already overwhelmed facilities.
+
+âA number of nursing homes have felt constrained by the order and admitted hospital discharged patients without knowing what their COVID status was,â said Chris Laxton, executive director of the Society for Post-Acute and Long-Term Care Medicine.
+
+According to numbers posted by New Yorkâs Department of Health, the state’s nursing home COVID-19 death toll stood well over 5,000 as of this writing, making it a significant chunk of the stateâs total running death toll from the virus.
+
+The directive, which also noted that the stateâs nursing homes and related facilities cannot refuse patients, was reversed on May 10.
+
+Following intense criticism, Cuomo, in his subsequent media briefings, said he was merely following recommendations set forth by the Centers for Disease Control and Prevention (CDC).
+
+No matter how much Cuomo spins the said directive however, Stuart Almer, a nursing home operator, said it cannot be denied that the state order still put staff and residents at great risk.
+
+âWe canât draw a straight line from bringing in someone positive to someone catching the disease, but weâre talking about elderly, fragile and vulnerable residents,â Almer stated in an interview with AP. (Related: New York nursing homes now a âslaughterhouseâ for elderly coronavirus patients.)
+
+According to Almer, his staff at Gurwin Jewish, a 460-bed nursing home on Long Island, had to scramble in order to accommodate what he called a âfloodâ of 58 recovering COVID-19 patients from local hospitals.
+
+Almer stressed that while they did what they could to ensure the safety of their residents, such as by erecting more walls and by implementing other safety measures, residents at Gurwin nonetheless started falling sick, 47 of which died of confirmed or suspected COVID-19.
+
+The families of those who died are furious.
+
+“It was the single dumbest decision anyone could make if they wanted to kill people,” Daniel Arbeeny told the AP in an interview.
+
+According to Arbeeny, his 88-year-old father succumbed to the virus after being pulled out of a Brooklyn nursing home that saw more than 50 deaths.
+
+“This isn’t rocket science. We knew the most vulnerable were in nursing homes and rehab centers,” Arbeeny said, citing studies that pointed to the elderly and immunocompromised as being the most likely to succumb to the virus.
+
+Former New York lieutenant governor and Committee to Reduce Infection Deaths founder Betsy McCaughey did not mince words when speaking about the current situation in the stateâs nursing homes.
+
+âTheyâre death pits,â McCaughey told The New York Times.
+
+âThese nursing homes are already overwhelmed. Theyâre crowded and theyâre understaffed. One COVID-positive patient in a nursing home produces carnage,â she added.
+
+As of press time, the state of New York has recorded a running total of 358,000 infections and 23,195 deaths from the coronavirus, according to data from Johns Hopkins University.
+
+Sources include:
+
+TheEpochTimes.com
+
+APNews.com 1
+
+APNews.com 2
+
+NPR.org
+
+NYTimes.com",22.5,Very low,Extreme left,USA,0
+1937,https://www.naturalnews.com/2020-05-23-trump-orders-churches-worship-to-reopen.html,Natural News,5/23/20,['Arsenio Toledo'],President Trump orders houses of worship to reopen … threatens to override states that refuse,https://www.naturalnews.com/wp-content/uploads/sites/91/2020/05/Coronavirus-Trump-Briefing-Covid-19.jpg,"(Natural News) President Donald Trump has declared places of worship, such as churches, synagogues and mosques, as essential services and has called on governors to allow these religious institutions to reopen. The president has also said he will âoverrideâ the decisions of any state leaders who don’t agree to reopen churches.
+
+âThe ministers, pastors, rabbis, imams and other faith leaders will make sure their congregations are safe as they gather and pray,â said Trump at a hastily scheduled appearance Friday in the briefing room of the White House.
+
+The president’s order comes as he criticizes the “hypocrisy” of some governors who have allowed liquor stores and abortion clinics to remain open while keeping houses of worship under lockdown.
+
+âItâs not right, so Iâm correcting this injustice and calling houses of worship essential,â Trump told reporters.
+
+In response to the Wuhan coronavirus (COVID-19) pandemic, most houses of worship in the U.S. have closed their doors for the time being, with some providing virtual services. However, others have tried to continue with normal services and bringing their congregations together, which has prompted some pushback from local authorities. (Related: Churchgoers vow they would rather DIE than skip services during coronavirus lockdown.)
+
+State and local officials critical of order
+
+Trump made no mention of how exactly he would compel governors and state authorities to reopen religious institutions. Currently, legal experts are saying that the president has no power to compel state governments, especially if the order to shut down places of worship was done lawfully.
+
+State and local politicians have similarly expressed resistance to this order.
+
+Rhode Island Gov. Gina Raimondo said she will not alter her state’s lockdown protocols to reopen churches. Similarly, Chicago Mayor Lori Lightfoot announced that her city will be ignoring Trump’s demand.
+
+âBy no means can the president order any locality, any state to do something that he doesn’t have the power to do,â said Lightfoot. âAnd he can’t do that here.â
+
+Public health experts have raised concerns about the risks entailed with reopening religious institutions, especially when there have already been several cases of outbreaks spreading from church congregations. A small outbreak of COVID-19 broke out in rural Arkansas which spread from a pastor and his wife to around three dozen of their parishioners. At least two churches in Texas and Georgia have already shut down after reopening when several of their members tested positive for the coronavirus.
+
+Listen to theÂ Health Ranger ReportÂ with Mike Adams, the Health Ranger, as he talks about how the lockdowns have been weaponized to the detriment of humanity.
+
+CDC issues guidelines for reopening of places of worship
+
+TheÂ Centers for Disease Control and PreventionÂ (CDC) released guidelines Friday afternoon about what communities of faith should follow if they want to maintain good health when they reopen.
+
+Religious institutions should, above all, establish and maintain lines of communication with local and state authorities, provide proper protective equipment for staff and congregants and abide by local, state and federal laws and regulations put in place to protect everyone.
+
+Once churches reopen, the CDC laid out seven key guidelines they need to follow:
+
+Follow social distancing regulationsÂ — Limit the size of gatherings and consider holding services in large or outdoor areas.
+
+— Limit the size of gatherings and consider holding services in large or outdoor areas. Encourage the use of face masksÂ — Both staff and congregants should wear face coverings, especially when social distancing is difficult to follow.
+
+— Both staff and congregants should wear face coverings, especially when social distancing is difficult to follow. Intensify cleaning, disinfection and ventilation effortsÂ — Develop a proper schedule when employees will clean and disinfect all frequently touched surfaces in the building. Increase ventilation in the building and ensure that the church’s current ventilation systems are working properly.
+
+— Develop a proper schedule when employees will clean and disinfect all frequently touched surfaces in the building. Increase ventilation in the building and ensure that the church’s current ventilation systems are working properly. Promote healthy hygiene practicesÂ — Encourage both staff and attendees to practice proper hygiene, such as the washing of hands with soap and water for at least 20 seconds.
+
+— Encourage both staff and attendees to practice proper hygiene, such as the washing of hands with soap and water for at least 20 seconds. Provide childcare services for congregantsÂ — Consider opening proper childcare services, or partnering with nurseries in the area.
+
+— Consider opening proper childcare services, or partnering with nurseries in the area. Minimize the sharing of worship materials and other itemsÂ — Consider temporarily limiting the sharing of materials, such as worship aids, prayer books and other items.
+
+— Consider temporarily limiting the sharing of materials, such as worship aids, prayer books and other items. Train staffÂ — Train both clergy and staff in the above-mentioned guidelines.
+
+The CDC further stated that, during these troubling times, faith leaders should continue providing congregants with spiritual and emotional care and counseling services.
+
+DespiteÂ these guidelines, it remains unclear if Trump can force state and local authorities to reopen houses of worship. The U.S. Constitution reserves considerable powers to states and several courts have already set restrictions on in-person worship services during the pandemic for the promotion of public health.
+
+Sources include:
+
+WSJ.com
+
+Politico.com
+
+CDC.gov",22.5,Very low,Extreme left,USA,0
+1938,https://theduran.com/us-militarizes-the-caribbean-sea-to-surround-venezuela/,The Verge,5/23/20,[],US militarizes the Caribbean Sea to surround Venezuela,https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/05/A-Venezuela-blockade.jpg,"Submitted by InfoBrics, authored by Lucas Leiroz, research fellow in international law at the Federal University of Rio de Janeiro…
+
+Recently, the number of American ships and planes in the Caribbean Sea has increased exponentially. The most likely hypothesis so far is that there will be an attempt to block Venezuela, as the military flow in the region began to grow only after Iran announced the sending of oil ships to the Bolivarian country. On May 14, Venezuelan Foreign Minister Jorge Arreaza said that the boats that take gasoline to Venezuelan ports are being persecuted by the American Navy, which is worsening with the arrival of Iranian ships. The White House has already reported that it has taken retaliation against this cooperation between Venezuelans and Iranians, but no further information has been provided on the military operations being carried out. The United States has announced sanctions against any company that participates in the supply of gasoline to Venezuela, which is causing a structural crisis of fuel scarcity in the South American country.
+
+In addition to the blockade, there is a humanitarian issue, as American measures are inducing a major economic recession in the Bolivarian Republic. It has also been reported by the Venezuelan government that the tax imposed by the United States is affecting the country’s food supply, which is already having an effect on society. With a crisis and the siege being imposed on Caracas, how do Venezuelans use to deal with the advancing pandemic of new coronaviruses? How can the Bolivarian government manage a major economic and social crisis with imminent health danger? It is just the American strategy: to raise a siege and provoke the Venezuelan national collapse, inducing, through coercion, Nicolás Maduro’s government to accept changes in the regime for the benefit of Washington.
+
+The naval blockade is just one of the measures the United States is taking to overthrow Nicolás Maduro’s legitimate government. A few days ago, an attempted invasion against the country, carried out by Colombian mercenaries on American speedboats, was neutralized, with several terrorists arrested. Apparently, the sea will be the path by which Washington will try to overthrow Maduro, insisting on the military operation as solution of international controversies. The case also indicates the presence of the so-called “extermination war”, an ancient warlike practice in which a country is surrounded and kept under block by the navy of another nation, preventing the arrival of goods and food in port areas, affecting the population as a whole, indirectly leading thousands of people to hunger, misery and death. Basically, this is exactly the American goal in Venezuela with the current blockade. Without formally declaring war, Washington adopts an even more insidious strategy than traditional military confrontation.
+
+However, there is yet another important factor – and above Venezuela – behind the American interest in militarizing the Caribbean Sea. Since at least the First World War, the USA has occupied a position of undisputed supremacy on the seas, which allowed Washington, in time, to exercise a role of “global naval police”. However, this reality is changing day after day, since the world is already beginning to contemplate a response from nations to American naval power, especially in Asia.
+
+In the Asian continent, China and Iran are challenging the American Navy. In China, the progress of the Navy is absolute, with the Chinese having already succeeded, for the first time in its history, to overcome the International Date Line and concluding military tests in spaces traditionally occupied by the American maritime forces. In Iran, the maneuvering of small vessels against large American ships is daring. Recently, some sources have informed that Tehran will produce nuclear submarines, with the aim of increasing its naval power.
+
+The United States has spoken out several times condemning its opponents in China and Iran, but nothing has been done other than the mere war of words. In practice, it is difficult to deny that the United States has a naval power today that is much less powerful than it was decades ago. Washington did not attack its rivals in Asia simply because it could not handle a counteroffensive from Beijing or Tehran – at least not without a big material loss as a result.
+
+All of these factors are contributing to a redirection of the American Navy’s strategic policies. No longer able to keep its global power intact, Washington manages its forces for the southern portions of the American continent itself, guaranteeing a regional space of power. However, in the Americas the opposition to US possible aggression will be fierce and will have international support from other continents.
+
+Liked it? Take a second to support The Duran on Patreon!
+
+Read Later Add to Favourites Add to Collection Report",17.5,Low,Extreme right,Cyprus,0
+1939,https://theduran.com/israels-intent-to-annex-part-of-west-bank-may-spark-new-wide-scale-middle-east-crisis-amidst-global-pandemic/,The Duran,5/23/20,[],Israel’s intent to annex part of West Bank may spark new wide-scale Middle East crisis amidst global pandemic,https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/05/Israel-Palestine.jpg,"Submitted by InfoBrics, authored by Paul Antonopoulos, independent geopolitical analyst…
+
+Palestinian leader Mahmoud Abbas announced that the Palestinian state and the Palestinian Liberation Organization (PLO) will no longer adhere to the agreements they signed with Israel and the United States. It is a reaction to Israel’s intentions to annex Jewish settlements in the West Bank. If Abbas’s intentions are consistently implemented, it would be a paradox for Palestine to abolish itself.
+
+“The Palestinian Liberation Organization and the Palestinian state are rejecting any commitments from all agreements with the US administration and Israel, including those related to security,” Palestinian President Mahmoud Abbas said in response to the Israeli government’s intention to start on July 1 the process of annexing territories controlled by illegal Jewish settlers in the West Bank.
+
+Abbas did not mention any specific agreements, but it is believed he is referring to a series of agreements signed by the Palestinians with Israel in the 1990’s – the 1993 Oslo Accords, the 1997 Hebron Protocol, and the 1998 Wye River Memorandum.
+
+However, by cancelling the Oslo Accords, could the Palestinian Authority be abolishing itself?
+
+If Abbas is referring to the entire Oslo Agreement, it would in a way mean the dissolution of the Palestinian Authority, since they emerged from that agreement. Abbas’s reaction was caused not only by the intention of Israeli Prime Minister Benjamin Netanyahu to annex large areas of the West Bank on July 1, but also by the visit of U.S. Secretary of State Mike Pompeo to Israel, who undoubtedly supports the move.
+
+Security coordination with Israel, which Palestine could be giving up, is one of the most important aspects of the Oslo Agreement, which has become a cornerstone of the so-called peace process. Security coordination is essential for the day-to-day functioning of both the Palestinian Authority and Israel. The Palestinian Authority is highly dependent, in daily terms, on this cooperation with the Israeli authorities. And not only on security, but also on economics, as well as on the inflow of financial resources, which come from the Israeli government to Palestinian institutions.
+
+Even in earlier announcements, despite the interruptions, the essential parts of the implementation of coordination were never questioned. Abbas is now more serious than before when he announced and threatened to sever security ties which could be a blow to Israel, even if it means the Palestinian authorities lose the legal basis of its existence in international eyes.
+
+Secretary of the Palestinian Fatah organization, Fayez Abu Aita, said that in these circumstances breaking all agreements, including the Oslo peace agreement, was absolutely necessary – this is the only way to protect their territories.
+
+“It is not our fault that we are now on the edge of a new stage, a new great confrontation with Israel. Only by breaking all obligations with Washington and Tel Aviv, Palestine has the chance to defend its right to exist, the right to own land. After all, we said that we would not allow the implementation of the Deal of the Century. The Israeli government only heard itself and its greed. But this was only the first step: the further the Israeli side goes, the more serious the Palestinian response will be,” he said. “There is nothing else left for us, considering how quickly Israel extends its hands to our land. They were the first to bring the situation to a dangerous dead end.”
+
+If Israel annexes the West Bank, hopes of creating an Arab state within the 1967 borders will be extinguished.
+
+While the U.S. supports Israel’s annexation, Russian Minister of Foreign Affairs Sergei Lavrov on Wednesday in a telephone conversation with Israeli Foreign Minister Gabi Ashkenazim confirmed the readiness of Russia to further promote the resumption of the peace process between Palestinians and Israelis. Russia is trying to prevent the annexation and, through diplomatic means, gather an international quartet with the participation of the UN.
+
+Effectively Russia could be using this as an opportunity to present itself as a peace broker in the Palestine-Israel conflict. Whether this will be successful or not remains to be seen, but is necessary when it appears there is a strong chance that the Palestine-Israel conflict can breakout extremely violent again in the coming weeks amidst the consequences of the coronavirus pandemic.
+
+Liked it? Take a second to support The Duran on Patreon!
+
+Read Later Add to Favourites Add to Collection Report",17.5,Low,Extreme right,Cyprus,0
+1940,http://sputniknews.com/russia/202005231079396231-russian-gamaleya-institute-expects-launching-human-trials-for-covid-19-vaccine-by-15-june/,Sputnik News,5/23/20,[],Russia's Gamalei Institute Expects to Launch Human Trials for COVID-19 Vaccine by 15 June,https://cdn2.img.sputniknews.com/images/107813/65/1078136579.jpg,"To improve the performance of our website, show the most relevant news products and targeted advertising, we collect technical impersonal information about you, including through the tools of our partners. You can find a detailed description of how we use your data in our Privacy Policy. For a detailed description of the technologies, please see the Cookie and Automatic Logging Policy.
+
+By clicking on the ""Accept & Close"" button, you provide your explicit consent to the processing of your data to achieve the above goal.
+
+You can withdraw your consent using the method specified in the Privacy Policy.",12.5,Very low,Right,Russia,0

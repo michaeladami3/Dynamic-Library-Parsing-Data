@@ -1,0 +1,15 @@
+C:\Users\micha\RiderProjects\Proj5\Proj5\bin\Debug\netcoreapp3.1-windows\Proj5.exe
+C:\Users\micha\RiderProjects\Proj5\Proj5\bin\Debug\netcoreapp3.1-windows\Proj5.deps.json
+C:\Users\micha\RiderProjects\Proj5\Proj5\bin\Debug\netcoreapp3.1-windows\Proj5.runtimeconfig.json
+C:\Users\micha\RiderProjects\Proj5\Proj5\bin\Debug\netcoreapp3.1-windows\Proj5.runtimeconfig.dev.json
+C:\Users\micha\RiderProjects\Proj5\Proj5\bin\Debug\netcoreapp3.1-windows\Proj5.dll
+C:\Users\micha\RiderProjects\Proj5\Proj5\bin\Debug\netcoreapp3.1-windows\Proj5.pdb
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.csprojAssemblyReference.cache
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.AssemblyInfoInputs.cache
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.AssemblyInfo.cs
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.csproj.CoreCompileInputs.cache
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.dll
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.pdb
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.genruntimeconfig.cache
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.Form1.resources
+C:\Users\micha\RiderProjects\Proj5\Proj5\obj\Debug\netcoreapp3.1-windows\Proj5.csproj.GenerateResource.cache
